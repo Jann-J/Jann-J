@@ -1,8 +1,8 @@
 <h1 align="center">Hi! I'm Janhavi Jain</h1>
 <h3 align="center">Full-Stack Developer and Emerging Software Engineer</h3>
 
-How to reach me **janhavijain0211@gmail.com**
-Fun fact **I'm a little bookish**
+How to reach me **janhavijain0211@gmail.com** <br/>
+Fun fact **I'm a little bookish** <br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
